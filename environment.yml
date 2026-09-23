@@ -1,0 +1,11 @@
+name: mlb-k-projection
+channels:
+  - defaults
+dependencies:
+  - python=3.11.7
+  - jupyterlab=4.0.11
+  - ipykernel
+  - pandas=2.1.4
+  - numpy=1.26.4
+  - scikit-learn=1.2.2
+  - matplotlib=3.8.0
